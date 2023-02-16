@@ -4,4 +4,5 @@
 2. Print                (command)
 3. Redirectors & Quotes (Linux Concept)
 4. Varibles             (Scripting Concept)
-5. 
+5. Input                (Scripting Concept)
+6. 
