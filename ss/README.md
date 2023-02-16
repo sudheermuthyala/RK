@@ -6,4 +6,4 @@
 4. Varibles             (Scripting Concept)
 5. Input                (Scripting Concept)
 6. Functions            (Scripting Concept)
-7
+7. Exit
