@@ -26,3 +26,6 @@
 - It denotes the path of the interpreter and ensures the remaining lines are executed using that interpreter.
 - For a file only one She-Bang is possible.
 - Also She-Bang has to be in very first line
+- If script executes as <shell> <script> then mentioned shell will be used
+- If the script is executed as ./script then she-bang is used.
+- If the script is executed as ./script but she-bang is not there then default shell bash is used
