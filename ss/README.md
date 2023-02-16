@@ -8,3 +8,4 @@
 6. Functions            (Scripting Concept)
 7. Exit Status          (Command)
 8. Conditions           (Scripting Concept)
+9. Loops                (Scripting Concept)
