@@ -21,3 +21,4 @@
 ## Why Bash
 - Bash is the default in Linux
 - Bash is having all the features of basic shells
+## She-Bang
