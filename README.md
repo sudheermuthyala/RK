@@ -7,7 +7,7 @@
 
 ### How DNS Name Servers is transfer there owner ship from hostinger to AWS
 <p align="center">
-  <img src="https://github.com/sudheermuthyala/AWS/blob/main/RK/i/2023-02-15-21-31-53.png" />
+  <img src="https://github.com/sudheermuthyala/AWRKS/blob/main/RK/i/2023-02-15-21-31-53.png" />
     </p>
 
 ### What we are Automating 
