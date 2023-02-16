@@ -7,4 +7,4 @@
 5. Input                (Scripting Concept)
 6. Functions            (Scripting Concept)
 7. Exit Status          (Command)
-8. 
+8. Conditions           ()
