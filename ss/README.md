@@ -22,3 +22,7 @@
 - Bash is the default in Linux
 - Bash is having all the features of basic shells
 ## She-Bang
+#! is called as She-Bang
+It denotes the path of the interpreter and ensures the remaining lines are executed using that interpreter.
+For a file only one She-Bang is possible.
+Also She-Bang has to be in very first line
