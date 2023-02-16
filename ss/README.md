@@ -1,3 +1,3 @@
 # Shell Scripting
 ## List of Shell Scripting Topics
-1. Shabang
+1. Shabang & Comments
