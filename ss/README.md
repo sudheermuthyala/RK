@@ -12,3 +12,9 @@
 10. SED Editor          (Command)
 
 ## Which Shell
+BASH
+SH
+KSH 
+CSH
+ZSH
+FISH
