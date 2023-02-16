@@ -9,4 +9,4 @@
 7. Exit Status          (Command)
 8. Conditions           (Scripting Concept)
 9. Loops                (Scripting Concept)
-10. SED Editor          
+10. SED Editor          (Scripting Concept)
