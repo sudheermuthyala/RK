@@ -29,3 +29,6 @@
 - If script executes as <shell> <script> then mentioned shell will be used
 - If the script is executed as ./script then she-bang is used.
 - If the script is executed as ./script but she-bang is not there then default shell bash is used
+<p align="center">
+  <img src="https://github.com/sudheermuthyala/RK/blob/main/i/2023-02-16-08-34-54.png" />
+    </p>
