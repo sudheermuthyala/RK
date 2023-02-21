@@ -37,5 +37,6 @@
 - Any line starting with a `# character` then that line will be ignored by the interpreter.
 
 ## Check the number of cores on your system using the command `nproc`
-```
+```t
 echo $(nproc)
+```
