@@ -3,6 +3,7 @@
   "updateInterval": 5,
   "logging": false,
   "silent": false,
-  "commitMessage": "---My Auto Git Commit ---"
-
+  "commitMessage": "---My Auto Git Commit ---",
+  "locale": "en-US",
+  "timeZone": "Europe/Berlin"
 }
