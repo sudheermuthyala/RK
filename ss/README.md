@@ -39,4 +39,4 @@
 ## Check the number of cores on your system using the command `nproc
 `
 
-echo $()
+echo $(nproc)
